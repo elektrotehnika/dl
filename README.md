@@ -6,11 +6,7 @@
 
 ## Обавештења
 
-Часови предавања (Примене конволуцијских неуронских мрежа: препознавање лица и пренос стила.) биће одржана у петак 20. маја 2022. године од 8:45 у сали 119.
-
-Надокнада часова предавања (Дубоки конволуцијски модели) од понедељка 9. маја 2022. године биће одржана у четвртак 12. маја 2022. године у периоду од 12:00 до 15:00 у учионици 206, с тим што ће пауза бити од 13:00 до 13:35.
-
-Предавања и вежбе у понедељак 9. маја 2022. године нису одржане због службеног путовања предметног наставника. Термин надокнаде ће бити благовремено објављен.
+Часови предавања (Примене конволуцијских неуронских мрежа: препознавање лица и пренос стила.) одржана су у петак 20. маја 2022. године у учионици 119.
 
 ## Настава
 
@@ -28,7 +24,7 @@
  10\.  | Примене: препознавање лица и пренос стила.       | [C4M4][C4M4]
  11\.  | Генеративно-супарничке неуронске мреже.          | [F21-L4][F21-L4]
  12\.  | Рекурентне неуронске мреже.                      | [C5M1][C5M1]
- 13\.  | Обрада природних језика и вектори речи           | [C5M2][C5M2]
+ 13\.  | Обрада природних језика и вектори речи.          | [C5M2][C5M2]
  14\.  | Модели секвенци и механизми привлачења пажње.    | [C5M3][C5M3]
  15\.  | Трансформери.                                    | [C5M4][C5M4]
 
@@ -48,12 +44,18 @@
 [C5M1]: https://cs230.stanford.edu/files/C5M1.pdf
 [C5M2]: https://cs230.stanford.edu/files/C5M2.pdf
 [C5M3]: https://cs230.stanford.edu/files/C5M3.pdf
+[C5M4]: https://cs230.stanford.edu/files/C5M4.pdf
 
+[F21-L1]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_1.pdf
+[F21-L2]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_2.pdf
 [F21-L4]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_4.pdf
+[F21-L5]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_5.pdf
+[F21-L7]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_7.pdf
+[F21-L9]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_9.pdf
 
 ## Интернет курсеви
 
-* [Huawei ICT Academy: Fundamentals of Deep Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: FMjO4c - 5-10 поена
+* [Huawei ICT Academy: Fundamentals of Deep Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: FMjO4c - 10 поена
 * званична сертификација [HCIP-AI](./Huawei/010102001901808059131409.pdf) - X поена
 
 ### Испит
