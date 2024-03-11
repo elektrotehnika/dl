@@ -72,6 +72,11 @@
 ### Корисне видео лекције
 
 На енглеском:
+* Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Neural Networks and Deep Learning](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+* Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+* Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Structuring Machine Learning Projects](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+* Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+* Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Sequence Models](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 * Stanford: [CS230 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 ## Интернет курсеви
@@ -124,6 +129,8 @@
 * **8**: од 71 до 80 поена
 * **9**: од 81 до 90 поена
 * **10**: од 91 до 100 поена
+
+</details>
 
 ## Резултати колоквијума и испита
 
