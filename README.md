@@ -1,22 +1,12 @@
 # Основи дубоког учења
 
-Летњи семестар школске 2023/2024. године
+Летњи семестар школске 2024/2025. године
 * наставник: Владимир М. Миловановић
 <!--* сарадник: Исидора Грујић-->
 
 ## Обавештења
 
-Одбрана студентских пројеката за студенте који су испит из Основа дубоког учења пријавили у другом септембарском, односно октобарском испитном року биће одржана у четвртак 3. октобра 2024. године од 9:30 часова у рачунарској учионици Д-66.
-
-Студентски предлози и одбране пројеката из предмета Основи дубоког учења биће одржани у четвртак 13. јуна 2024. године и четвртак 20. јуна 2024. године с почетком у 17 часова у учионици Д-66.
-
-Студентски предлози пројеката из предмета Основи дубоког учења одржани су у четвртак 13. и 20. јуна 2024. године с почетком у 17 часова у рачунарској учионици Д-66.
-
 Коначни [резултати](https://docs.google.com/spreadsheets/d/1VswTNw6_4dwwYHJ4HKwy48Sr9dvXGpPPAtdcZj2Kg9w) колоквијума из Основа дубоког учења одржаног у недељу 19. маја 2024. године с почетком у 13 часова у учионици 201.
-
-Часови предавања, односно консултације пред колоквијум одржани су у понедељак 13. маја 2024. године.
-
-Настава из предмета Основи дубоког учења почела је 26. фебруара 2024. године.
 
 ## Настава
 
@@ -79,6 +69,11 @@
 [F21-L9]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_9.pdf
 [F21-L10]: https://cs230.stanford.edu/syllabus/fall_2021/lecture_10.pdf
 
+## Литература
+
+Уџбеник на енглеском језику за припрему за добијање HCIA-AI сертификата:
+* [Huawei Technologies](https://e.huawei.com/en/talent/learning/#/booklist), [Artificial Intelligence Technology](https://link.springer.com/book/10.1007/978-981-19-2879-6), Springer, 2023.
+
 ### Корисне видео лекције
 
 На енглеском:
@@ -98,7 +93,7 @@
   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
   * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-* [Huawei ICT Academy: Fundamentals of Deep Learning](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: FMjO4c - 10 поена
+* [Huawei ICT Academy: Machine and Deep Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: k5PZ8X - 5 поена
 * званична сертификација [HCIP-AI](./Huawei/010102001901808059131409.pdf) - 25 поена
 
 [Резултати](https://docs.google.com/spreadsheets/d/1RyvG7IVa4uybtXSHzngpcbnb8LEaEkFF4xU8CdShJMo) Huawei ICT Academy: Fundamentals of Deep Learning курса.
