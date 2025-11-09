@@ -83,6 +83,7 @@
 * Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 * Stanford & [DeepLearning.AI](https://www.deeplearning.ai): [Sequence Models](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 * Stanford: [CS230 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+* [3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks): [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## Интернет курсеви
 
